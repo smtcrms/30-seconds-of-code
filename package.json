@@ -10,7 +10,7 @@
     "jest": "^23.6.0",
     "markdown-builder": "^0.8.4",
     "markdown-it": "^8.4.2",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "octicons": "^7.4.0",
     "prettier": "^1.14.2",
     "prismjs": "^1.15.0",
